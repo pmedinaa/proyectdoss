@@ -1,0 +1,82 @@
+.cuerpo{
+    background: linear-gradient(to left, rgb(120, 224, 224), rgb(224, 142, 201));
+}
+.s1{
+    display: flex;
+    text-align: center;
+}
+.s12{
+    width: 280px;
+    height: 60px;
+    background-color:rgb(234, 197, 86);
+    margin: auto;
+}
+.s2{
+    margin-top: 20px;
+    display: flex;
+}
+.s21{
+    width: 66%;
+    height: 200px;
+    background-image: url(taquitos.jpg);
+}
+.s211{
+    margin-top: 60px;
+}
+.h1s21{
+    text-align: center;
+    margin-left: 20px;
+    width: 170px;
+    background-color:rgb(234, 197, 86);
+}
+.ps21{
+    text-align: center;
+    margin-left: 20px;
+    width: 140px;
+    background-color:rgb(234, 197, 86);
+}
+.s22{
+    text-align: center;
+    margin-left: 45px;
+}
+.s221{
+    height: 85px;
+    width: 400px;
+    background-color:rgb(234, 197, 86);
+}
+.h1s221{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.s3{
+    display: flex;
+    text-align: center;
+}
+.s31{
+    background-color: white;
+    height: 180px;
+    margin: auto;
+    width: 350px;
+    margin-top: 20px;
+}
+.imgs31{
+    margin-top: 10px;
+}
+.s4{
+    display: flex;
+    background-color: white;
+    width: 99%;
+    margin: auto;
+    margin-top: 20px;
+}
+.s42{
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.buts42{
+    background-color:rgb(234, 197, 86) ;
+    color: rgb(57, 47, 8);
+    width: 120px;
+    height: 50px;
+}
